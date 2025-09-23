@@ -17,3 +17,6 @@ O **TeamFlow** é um aplicativo desenvolvido para gestores e diretores de empres
 
 - **`sprint-backlog.pdf`**  
   Backlog da Sprint 1, contendo o épico **MVP** com suas histórias de usuário e funcionalidades correspondentes.
+
+- **`wireframes/`**  
+  Pasta dos wireframes de base para interfaces contempladas na Sprint 1, contendo as páginas de autenticação e board de alocações
